@@ -13,7 +13,7 @@ These extra sniffs are based on less explicitly enforced, but still clearly outl
 
 ## License
 
-GNU General Public License Version 2 (or later)
+BSD 3-Clause "New" or "Revised" License
 
 ## Contributing
 
